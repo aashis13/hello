@@ -1,0 +1,37 @@
+.don{
+    background-image:url("morpakh.jpeg");
+    color: blue;
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    background-size: cover;
+    cursor:auto;
+}
+.aashis{
+    background-color: rgb(86, 246, 252);
+    color: blue;
+
+}
+
+.kafle{
+    background-color: red;
+    color: blue;
+}
+.shrestha{
+    background-color: black;
+    color: red;
+}
+.bhandari{
+    background-color:aqua ;
+    color: blueviolet;
+}
+
+.poudel{
+    background-color: blueviolet;
+    color: aqua;
+}
+
+.red:hover{
+      cursor:crosshair;
+
+}

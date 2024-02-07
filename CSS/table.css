@@ -1,0 +1,28 @@
+#aashis,th,td{
+    border: 5px solid rgb(40, 241, 0);
+    height:auto;
+    width: 200px;
+    margin-left: 45%;
+    border-collapse:collapse;
+    padding: 50px;
+    color:red;
+    
+    
+}
+
+.head:hover{
+    background-color:rgb(3, 3, 2);
+}
+
+.nose:hover{
+    background-color: yellow;
+}
+
+.eye:hover{
+    background-color:aqua;
+}
+
+.mouth:hover{
+    background-color: violet;
+}
+

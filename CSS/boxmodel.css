@@ -1,0 +1,20 @@
+#aashis{
+    border: 5px solid rgb(247, 10, 10);
+    border-radius: 50%;
+    width: 170px;
+    height: 175px;
+    padding: 6%;
+    
+
+}
+#hero{
+    
+border: 5px solid rgb(0, 0, 0);
+border-radius: 50%;
+width: 202px;
+height: 202px;
+margin-left: 40%;
+padding: 20px;
+background-color: red;
+
+}

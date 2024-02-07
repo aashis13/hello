@@ -1,0 +1,13 @@
+header{
+    border: 1px solid red; 
+    /* flex-direction:column; */
+    display: flex; 
+    justify-content: space-evenly;
+    height: 100px;
+    align-items: center;
+    /* gap: 100px; */
+}
+
+nav{
+    border: 1px solid blue;
+}

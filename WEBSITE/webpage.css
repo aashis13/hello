@@ -1,0 +1,67 @@
+header {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  height: 100px;
+  align-items: center;
+  margin: auto;
+}
+
+nav {
+  color: orange;
+  font-size: larger;
+  margin: auto;
+}
+
+.heading {
+  color: orange;
+  margin: auto;
+}
+
+#left {
+  text-align: center;
+  margin: auto;
+  /* margin-right: 40%; */
+  width: 50%;
+}
+#right {
+  /* border: 1px springgreen solid; */
+  width: 50%;
+  height: 150px;
+  margin: auto;
+  /* background-image: url(https://r3yz0n.github.io/TrainingWebsite/asset/background.jpg); */
+}
+#we {
+  display: flex;
+  /* height: 30vmax; */
+  margin: auto;
+}
+
+#mt {
+  display: flex;
+  justify-content: space-evenly;
+  height: 100px;
+  align-items: center;
+  flex: auto;
+  margin: auto;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+#right>img{
+    margin: auto;
+    height: 500px;
+    width: 100%;
+    
+}
+
+body{
+
+    border: 1px solid red;
+    width: 100wh;
+    height: 100vh; 
+}
+
